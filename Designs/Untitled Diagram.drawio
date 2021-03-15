@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-03-15T08:09:21.793Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" version="14.4.8" etag="MAyUZTo7mS7LXAwwTkDo" type="github"><diagram id="hpXZ4Rde4wXA_eKrULpP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-15T08:26:12.273Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="Z8cwCI5Ux5u0b6Z520x5" version="14.4.8" type="github">
+  <diagram id="hpXZ4Rde4wXA_eKrULpP" name="Page-1">
+    <mxGraphModel dx="1113" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gPxeosYhieGhfJZu3XvO-1" value="&lt;ol&gt;&lt;li&gt;General Requirements&lt;/li&gt;&lt;li&gt;Functional Requirements&lt;/li&gt;&lt;li&gt;Component Architecture&lt;/li&gt;&lt;li&gt;Data Models.&lt;/li&gt;&lt;li&gt;Dependency Graph&lt;/li&gt;&lt;li&gt;High Level Mock Up&lt;/li&gt;&lt;li&gt;API&lt;/li&gt;&lt;li&gt;Data Store&lt;/li&gt;&lt;li&gt;Optimisations&lt;/li&gt;&lt;li&gt;Accessibility&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="30" y="50" width="190" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="gPxeosYhieGhfJZu3XvO-2" value="System Design Plan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gPxeosYhieGhfJZu3XvO-4" value="&lt;ol style=&quot;font-size: 12px&quot;&gt;&lt;li style=&quot;font-size: 12px&quot;&gt;What are we selling?&lt;/li&gt;&lt;li style=&quot;font-size: 12px&quot;&gt;Having a homepage containing Featured Items, Recommended items, carousels, navbar, header, footer&lt;/li&gt;&lt;li style=&quot;font-size: 12px&quot;&gt;We Will have a global search&lt;/li&gt;&lt;li style=&quot;font-size: 12px&quot;&gt;We Will have a side nav containing all categories and subcategories&lt;/li&gt;&lt;li style=&quot;font-size: 12px&quot;&gt;A page for each product description, price, available items etc.&lt;/li&gt;&lt;li style=&quot;font-size: 12px&quot;&gt;Cart&lt;/li&gt;&lt;li style=&quot;font-size: 12px&quot;&gt;Payment Gateway&lt;/li&gt;&lt;li style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="270" y="30" width="370" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
